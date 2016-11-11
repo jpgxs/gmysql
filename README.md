@@ -1,2 +1,2 @@
 # gmysql
-Asyncronous MySQL library written in C
+Asyncronous MySQL library written in C, compatible with gevent
